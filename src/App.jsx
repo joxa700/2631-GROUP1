@@ -8,7 +8,7 @@ const App = () => {
       <Joxa/>
       <Ali/>
       <Axror/>
-      <Yusuf/>git init
+      <Yusuf/>
     </div>
   )
 }
